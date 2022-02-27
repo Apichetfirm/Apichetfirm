@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Apicet Firm
+- 👀 I’m interested in Python & C language
+- 🌱 I’m currently learning C language
